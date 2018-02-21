@@ -1,0 +1,4 @@
+notify:
+  webhooks:
+    # A list of hook hashes, containing the URL field
+    - url: https://demoproject11.stamplayapp.com/api/webhook/v1/mycitrigger/catch
